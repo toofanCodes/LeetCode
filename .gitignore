@@ -122,3 +122,4 @@ Thumbs.db
 
 # Excel files
 *.xlsx
+venv/
